@@ -1,0 +1,14 @@
+{
+  "name": "bot-monitor-medsos",
+  "version": "1.0.0",
+  "description": "Bot Discord buat mantau RSS Feed Medsos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2",
+    "rss-parser": "^3.13.0"
+  }
+}
